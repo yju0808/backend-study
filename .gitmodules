@@ -1,0 +1,9 @@
+[submodule "spring-core-principles-basic"]
+	path = spring-core-principles-basic
+	url = https://github.com/yju0808/spring-core-principles-basic.git
+[submodule "spring-mvc-part-1"]
+	path = spring-mvc-part-1
+	url = https://github.com/yju0808/spring-mvc-part-1.git
+[submodule "spring-mvc-part-2"]
+	path = spring-mvc-part-2
+	url = https://github.com/yju0808/spring-mvc-part-2.git
