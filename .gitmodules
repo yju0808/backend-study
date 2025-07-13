@@ -7,3 +7,7 @@
 [submodule "spring-mvc-part-2"]
 	path = spring-mvc-part-2
 	url = https://github.com/yju0808/spring-mvc-part-2.git
+
+[submodule "spring-database-part-1"]
+	path = spring-database-part-1
+	url = https://github.com/yju0808/spring-database-part-1.git
