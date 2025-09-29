@@ -22,3 +22,6 @@
 [submodule "spring-core-principles-advanced"]
 	path = spring-core-principles-advanced
 	url = https://github.com/yju0808/spring-core-principles-advanced.git
+[submodule "database-basic"]
+	path = database-basic
+	url = https://github.com/yju0808/database-basic.git
