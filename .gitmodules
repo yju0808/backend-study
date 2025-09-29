@@ -13,6 +13,12 @@
 [submodule "spring-database-part-2"]
 	path = spring-database-part-2
 	url = https://github.com/yju0808/spring-database-part-2.git
-[submodule "submodules/spring-core-principles-advanced"]
-	path = submodules/spring-core-principles-advanced
+[submodule "submodules/spring-boot-core-mechanisms-and-practical-usage"]
+	path = submodules/spring-boot-core-mechanisms-and-practical-usage
+	url = https://github.com/yju0808/spring-boot-core-mechanisms-and-practical-usage.git
+[submodule "spring-boot-core-mechanisms-and-practical-usage"]
+	path = spring-boot-core-mechanisms-and-practical-usage
+	url = https://github.com/yju0808/spring-boot-core-mechanisms-and-practical-usage.git
+[submodule "spring-core-principles-advanced"]
+	path = spring-core-principles-advanced
 	url = https://github.com/yju0808/spring-core-principles-advanced.git
